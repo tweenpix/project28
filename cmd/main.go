@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"pkg/student"
+	"project28/student"
 )
 
 func main() {
